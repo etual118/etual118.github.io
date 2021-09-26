@@ -29,3 +29,8 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem 'jekyll-admin', group: :jekyll_plugins
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem 'jekyll-include-cache'
+# gem "json"
